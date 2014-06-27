@@ -1,7 +1,7 @@
 # openssl.vim
 Pathogen-compatible version of [openssl.vim][1]
 
-openssl is created by Noah Spurrier
+openssl.vim is created by Noah Spurrier
 
 ## description
 
